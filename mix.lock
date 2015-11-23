@@ -1,0 +1,4 @@
+%{"earmark": {:hex, :earmark, "0.1.19"},
+  "eqc": {:git, "https://github.com/rpt/eqcmini.git", "c33bc5ac3600026877b04b9dedae35f1f35f49a7", []},
+  "eqc_ex": {:hex, :eqc_ex, "1.2.3"},
+  "ex_doc": {:hex, :ex_doc, "0.11.0"}}
