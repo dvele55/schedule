@@ -34,7 +34,7 @@ defmodule Schedule.Mixfile do
   end
 
   defp package do
-    [contributors: ["Marko Dvecko"],
+    [maintainers: ["Marko Dvecko"],
      licenses: ["Apache 2.0"],
      links: %{"GitHub" => "https://github.com/dvele55/schedule"}]
   end
